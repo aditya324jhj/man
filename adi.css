@@ -1,0 +1,282 @@
+#asd{  
+position: absolute;
+width: 714.48px;
+height: 255.46px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+box-shadow: 12.6275px 12.6275px 18.0392px rgba(0, 0, 0, 0.06);
+border-radius: 4px;
+}
+#adimg{ 
+    position: absolute;
+    width: 246px;
+    height: 182px;
+    left: 42.39px;
+    top: 39.82px;
+    
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 88.22%), url(.jpg);
+    border-radius: 8px;
+
+}
+
+
+#sad{
+position: absolute;
+width: 378.63px;
+height: 21px;
+left: 309.85px;
+top: calc(50% - 21px/2 - 77.41px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+
+
+/* Black */
+
+color: #1F1F1F;
+}
+
+#sad2{
+position: absolute;
+width: 373.45px;
+height: 44.86px;
+left: 309.85px;
+top: 68.56px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 14px;
+
+/* Dark Shade III */
+
+color: #7A7A7A;
+}
+
+#adimg2{
+    position: absolute;
+width: 61.38px;
+height: 59.81px;
+left: 309.85px;
+top: 118.16px;
+
+background: url(.jpg), #D9D9D9;
+}
+#sad3{
+    position: absolute;
+width: 45.69px;
+height: 12px;
+left: 380.48px;
+top: 123.14px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 8.72227px;
+line-height: 12px;
+/* identical to box height */
+
+
+/* Dark Shade III */
+
+color: #7A7A7A;
+
+opacity: 0.6;
+}
+
+#sad4{
+    position: absolute;
+width: 80.27px;
+height: 17px;
+left: 380.48px;
+top: 137.47px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 11.2143px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#text1{
+
+    position: absolute;
+    width: 47.83px;
+    height: 14px;
+    left: 605.79px;
+    top: 127.92px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.0049px;
+    line-height: 14px;
+    /* identical to box height */
+    
+    
+    /* grey */
+    
+    color: #434343;
+    
+    opacity: 0.6;
+
+}
+#text2{
+    position: absolute;
+    width: 46.74px;
+    height: 14px;
+    left: 602.68px;
+    top: 156.84px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.0049px;
+    line-height: 14px;
+    /* identical to box height */
+    
+    
+    /* grey */
+    
+    color: #434343;
+    
+    opacity: 0.6;
+
+    
+}
+
+#text3{
+    position: absolute;
+    width: 19.57px;
+    height: 20px;
+    left: 660.94px;
+    top: 125.06px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14.2927px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+#text4{
+    position: absolute;
+width: 29.35px;
+height: 20px;
+left: 653.95px;
+top: 153.98px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14.2927px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#bs{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8.43103px 10.1172px;
+    gap: 5.06px;
+    
+    position: absolute;
+    width: 104.47px;
+    height: 29.51px;
+    left: 309.85px;
+    top: 193.21px;
+    
+    /* Blue */
+    
+    border: 0.843103px solid #007EF2;
+    border-radius: 1.68621px;
+}
+
+#h56{
+    width: 52px;
+height: 13px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 10.1172px;
+line-height: 132%;
+/* or 13px */
+
+
+/* Blue */
+
+color: #007EF2;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+#ftext{
+    position: absolute;
+width: 54.44px;
+height: 14px;
+left: 562.73px;
+top: 200.93px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 10.3785px;
+line-height: 14px;
+
+/* grey */
+
+color: #434343;
+
+opacity: 0.6;
+}
+
+#gtext{
+    font-family: 'Manrope';
+font-size: 10px;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+
+    position: absolute;
+width: 58.52px;
+height: 20px;
+left: 624.77px;
+top: 197.96px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14.8265px;
+line-height: 20px;
+
+color: #000000;
+}
