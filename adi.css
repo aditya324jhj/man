@@ -216,26 +216,26 @@ color: #000000;
 
 #h56{
     width: 52px;
-height: 13px;
-
-font-family: 'Manrope';
-font-style: normal;
-font-weight: 700;
-font-size: 10.1172px;
-line-height: 132%;
-/* or 13px */
-
-
-/* Blue */
-
-color: #007EF2;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 1;
-flex-grow: 0;
+    height: 13px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.1172px;
+    line-height: 132%;
+    /* or 13px */
+    
+    
+    /* Blue */
+    
+    color: #007EF2;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
 #ftext{
@@ -279,4 +279,120 @@ font-size: 14.8265px;
 line-height: 20px;
 
 color: #000000;
+}
+
+
+#star1{
+    position: absolute;
+    width: 10.41px;
+    height: 9.34px;
+    left: 380.48px;
+    top: 161.38px;
+    
+    color: #FFA217;
+    border-radius: 0.233523px;
+}
+
+#star2{    
+    position: absolute;
+    width: 10.41px;
+    height: 9.34px;
+    left: 392.97px;
+    top: 161.38px;
+    
+    color: #FFA217;
+    border-radius: 0.233523px;
+}       
+
+#star3{
+    position: absolute;
+    width: 10.41px;
+    height: 9.34px;
+    left: 405.46px;
+    top: 161.38px;
+    
+    color: #FFA217;
+    border-radius: 0.233523px;
+}
+
+#star4{ 
+    position: absolute;
+    width: 10.41px;
+    height: 9.34px;
+    left: 417.95px;
+    top: 161.38px;
+    
+   color: #FFA217;
+    border-radius: 0.233523px;
+}
+
+#star5{ 
+    position: absolute;
+width: 10.41px;
+height: 9.34px;
+left: 430.44px;
+top: 161.38px;
+
+/* Dark Shade III */
+
+color: #7A7A7A;
+border-radius: 0.233523px;
+}
+
+#text5{
+    position: absolute;
+    width: 28.7px;
+    height: 13px;
+    left: 443.16px;
+    top: 159.98px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8.40685px;
+    line-height: 13px;
+    /* identical to box height */
+    
+    
+    /* Dark Shade III */
+    
+    color: #7A7A7A;
+
+}
+
+#ficon{
+    position: absolute;
+left: 8.33%;
+right: 0%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Blue */
+height: 8.431032180786133px;
+width: 9.27413558959961px;
+left: 0.8430938720703125px;
+top: 0.8431015014648438px;
+border-radius: 0px;
+
+background: #007EF2;
+}
+
+#clock{
+    position: absolute;
+    left: 33.33%;
+    right: 16.67%;
+    top: 16.67%;
+    bottom: 33.33%;
+    
+    /* Teal */
+    
+    background: #00ACA5;
+    opacity: 0.3;
+    height: 14.292673110961914px;
+width: 15.53580379486084px;
+left: 1.553558349609375px;
+top: 1.4292675256729126px;
+border-radius: 0px;
+
+
 }
